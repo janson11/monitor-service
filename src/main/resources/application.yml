@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: montior-service
+
+
+server:
+  port: 8888
+  servlet:
+    context-path: /monitor
+    application-display-name: montior-service
