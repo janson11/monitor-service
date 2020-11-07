@@ -2,7 +2,6 @@ spring:
   application:
     name: montior-service
 
-
 server:
   port: 8888
   servlet:
